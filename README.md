@@ -6,6 +6,3 @@ Welcome to my DS portfolio python basics & methodology.
 Here you will find projects & exercises, large & small, that I have been working on. A collection of notebooks are from the IBM Data Science course.
 
 Get in touch: jahnfirth [at] gmail [dot] com 
-
-
-Here you will find projects, large and small, that I have been working on. A collection of notebooks are from the IBM Data Science course mixed with personal projects of interest.
