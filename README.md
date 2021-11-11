@@ -1,4 +1,4 @@
-# Portfolio: Python Basics
+# Portfolio: Python Basics & Exercises
 ## Jahn Firth's Data Science Portfolio
 
 Welcome to my DS portfolio python basics & methodology. 
